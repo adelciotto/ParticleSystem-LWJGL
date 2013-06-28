@@ -1,6 +1,5 @@
-//////////////////////////////////////////////////////
-Particle System v0.1
+Particle System V0.1
 By Anthony Del Ciotto
-//////////////////////////////////////////////////////
 
-- Uses the LWJGL
+- Right mouse click to attract
+- Left mouse click to repel
