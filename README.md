@@ -5,7 +5,6 @@ By Anthony Del Ciotto
 - Left mouse click to repel
 
 Screenshot:
-http://anthdeldeveloper.files.wordpress.com/2013/06/2013-06-05_235626.jpg
-
+![Alt text](http://anthdeldeveloper.files.wordpress.com/2013/06/2013-06-05_235626.jpg "Optional title")
 Video:
 http://www.youtube.com/watch?v=wu6D7Hi0GpM&feature=player_embedded
